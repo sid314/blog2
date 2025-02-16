@@ -1,248 +1,271 @@
-<!doctype html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<html
-  class="not-ready lg:text-base"
-  style="--bg: #faf8f1"
-  lang="en-us"
-  dir="ltr"
->
-  <head><script src="/blog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=blog/livereload" data-no-instant defer></script>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1, shrink-to-fit=no"
-  />
-
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/blog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=blog/livereload" data-no-instant defer></script>
   
-  <title>Posts - Blog</title>
-
+    <title>Posts :: Blog2</title>
   
-  <meta name="theme-color" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+  <meta name="robots" content="noodp" />
+
+<link rel="canonical" href="http://localhost:1313/blog/posts/" />
+
+
+
+
+
+
 
   
   
   
   
   
-  <meta
-    name="description"
-    content="A personal blog"
-  />
-  <meta name="author" content="Blog" />
-  
+  <link rel="stylesheet" href="http://localhost:1313/blog/styles.css">
+
+
+
+
+
+
+
+  <link rel="shortcut icon" href="http://localhost:1313/blog/img/theme-colors/green.png">
+  <link rel="apple-touch-icon" href="http://localhost:1313/blog/img/theme-colors/green.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Posts">
+<meta property="og:description" content="" />
+<meta property="og:url" content="http://localhost:1313/blog/posts/" />
+<meta property="og:site_name" content="Blog2" />
 
   
-  
-  
-  
-  
-  
-  <link rel="preload stylesheet" as="style" href="http://localhost:1313/blog/main.min.css" />
-
-  
-  
-  
-  
-  
-  <link rel="preload" as="image" href="http://localhost:1313/blog/theme.png" />
-
-  
-  
-  
-  
+    <meta property="og:image" content="http://localhost:1313/blog/img/favicon/green.png">
   
 
-  
-  
-  
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+
+
+
+
+
+  <link href="/blog/posts/index.xml" rel="alternate" type="application/rss+xml" title="Blog2" />
+
+
+
+
+
+
+
+
+
 
   
-  
 
-  
-  
-  
 
-  
-  <link
-    rel="icon"
-    href="http://localhost:1313/blog/favicon.ico"
-  />
-  <link
-    rel="apple-touch-icon"
-    href="http://localhost:1313/blog/apple-touch-icon.png"
-  />
-
-  
-  <meta name="generator" content="Hugo 0.142.0">
-
-  
-  
-  
 </head>
+<body class="green">
 
-  <body class="text-black duration-200 ease-out dark:text-white">
-    <header class="mx-auto flex h-[4.5rem] max-w-[--w] px-8 lg:justify-center">
-  <div class="relative z-50 ltr:mr-auto rtl:ml-auto flex items-center">
-    <a class="-translate-y-[1px] text-2xl font-medium" href="http://localhost:1313/blog/"
-      >Blog</a
-    >
-    <div
-      class="btn-dark text-[0] ltr:ml-4 rtl:mr-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
-      role="button"
-      aria-label="Dark"
-    ></div>
+
+
+
+<div class="container full headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="https://sid314.github.io/blog/">
+  <div class="logo">
+    Blog
   </div>
+</a>
 
-  <div
-    class="btn-menu relative z-50 ltr:-mr-8 rtl:-ml-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
-    role="button"
-    aria-label="Menu"
-  ></div>
-
+    </div>
+    
+    
+  </div>
   
-
-  <script>
-    
-    const htmlClass = document.documentElement.classList;
-    setTimeout(() => {
-      htmlClass.remove('not-ready');
-    }, 10);
-
-    
-    const btnMenu = document.querySelector('.btn-menu');
-    btnMenu.addEventListener('click', () => {
-      htmlClass.toggle('open');
-    });
-
-    
-    const metaTheme = document.querySelector('meta[name="theme-color"]');
-    const lightBg = '#faf8f1'.replace(/"/g, '');
-    const setDark = (isDark) => {
-      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
-      htmlClass[isDark ? 'add' : 'remove']('dark');
-      localStorage.setItem('dark', isDark);
-    };
-
-    
-    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
-    if (htmlClass.contains('dark')) {
-      setDark(true);
-    } else {
-      const darkVal = localStorage.getItem('dark');
-      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
-    }
-
-    
-    darkScheme.addEventListener('change', (event) => {
-      setDark(event.matches);
-    });
-
-    
-    const btnDark = document.querySelector('.btn-dark');
-    btnDark.addEventListener('click', () => {
-      setDark(localStorage.getItem('dark') !== 'true');
-    });
-  </script>
-
-  <div
-    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
-  >
-    
-    
-
-    
-  </div>
 </header>
 
 
-    <main
-      class="prose prose-neutral relative mx-auto min-h-[calc(100vh-9rem)] max-w-[--w] px-8 pb-16 pt-14 dark:prose-invert"
-    >
-      
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  <div class="content">
+    
   
-  <h2 class="!my-0">First Post</h2>
-  <time class="text-xs antialiased opacity-60"
-    >Jan 30, 2025</time
-  >
-  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/blog/posts/first-post/">First Post</a>
-</section>
+  <div class="posts">
+    
+      <article class="post on-list">
+        <h1 class="post-title">
+          <a href="http://localhost:1313/blog/posts/third/">Third</a>
+        </h1>
+        <div class="post-meta"><time class="post-date">2025-01-30</time>
+          
+
+        </div>
+
+        
+
+        
 
 
 
+        <div class="post-content">
+          
+            <h2 id="third-post">Third Post</h2>
+<p>IDK what to write im still testing out stuff.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-java" data-lang="java"><span style="display:flex;"><span>System.<span style="color:#a6e22e">out</span>.<span style="color:#a6e22e">println</span>(<span style="color:#e6db74">&#34;hi&#34;</span>);
+</span></span></code></pre></div>
+          
+        </div>
+
+        
+          <div>
+            <a class="read-more button" href="/blog/posts/third/"> →</a>
+          </div>
+        
+      </article>
+    
+      <article class="post on-list">
+        <h1 class="post-title">
+          <a href="http://localhost:1313/blog/posts/second/">Second</a>
+        </h1>
+        <div class="post-meta"><time class="post-date">2025-01-30</time>
+          
+
+        </div>
+
+        
+
+        
 
 
 
-    </main>
+        <div class="post-content">
+          
+            <h2 id="second-post">Second post</h2>
+<p><del>testing</del> Hoping for this to work</p>
+<table>
+  <thead>
+      <tr>
+          <th>Column1</th>
+          <th>Column2</th>
+          <th>Column3</th>
+          <th>Column4</th>
+          <th>Column5</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Item1.1</td>
+          <td>Item2.1</td>
+          <td>Item3.1</td>
+          <td>Item4.1</td>
+          <td>Item5.1</td>
+      </tr>
+      <tr>
+          <td>Item1.2</td>
+          <td>Item2.2</td>
+          <td>Item3.2</td>
+          <td>Item4.2</td>
+          <td>Item5.2</td>
+      </tr>
+      <tr>
+          <td>Item1.3</td>
+          <td>Item2.3</td>
+          <td>Item3.3</td>
+          <td>Item4.3</td>
+          <td>Item5.3</td>
+      </tr>
+  </tbody>
+</table>
+          
+        </div>
 
-    <footer
-  class="mx-auto flex h-[4.5rem] max-w-[--w] items-center px-8 text-xs uppercase tracking-wider opacity-60"
->
-  <div class="mr-auto">
-  
-    &copy; 2025
-    <a class="link" href="http://localhost:1313/blog/">Blog</a>
-  
+        
+          <div>
+            <a class="read-more button" href="/blog/posts/second/"> →</a>
+          </div>
+        
+      </article>
+    
+      <article class="post on-list">
+        <h1 class="post-title">
+          <a href="http://localhost:1313/blog/posts/first-post/">First Post</a>
+        </h1>
+        <div class="post-meta"><time class="post-date">2025-01-30</time>
+          
+
+        </div>
+
+        
+
+        
+
+
+
+        <div class="post-content">
+          
+            <h2 id="hi">HI</h2>
+<p>hello</p>
+          
+        </div>
+
+        
+          <div>
+            <a class="read-more button" href="/blog/posts/first-post/"> →</a>
+          </div>
+        
+      </article>
+    
+
+    <div class="pagination">
+  <div class="pagination__buttons">
+    
+    
   </div>
-  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
-    >powered by hugo️️</a
-  >️
-  <a
-    class="link"
-    href="https://github.com/nanxiaobei/hugo-paper"
-    rel="noopener"
-    target="_blank"
-    >hugo-paper</a
-  >
+</div>
+
+  </div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2025 Powered by <a href="https://gohugo.io">Hugo</a></span>
+    
+      <span>:: <a href="https://github.com/mirus-ua/hugo-theme-re-terminal" target="_blank">Theme</a> made by <a href="https://github.com/mirus-ua" target="_blank">Mirus</a></span>
+      </div>
+  </div>
 </footer>
 
-  </body>
+
+
+
+
+
+<script type="text/javascript" src="/blog/bundle.min.js"></script>
+
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
 </html>

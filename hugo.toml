@@ -1,4 +1,17 @@
 baseURL = 'https://sid314.github.io/blog/'
 languageCode = 'en-us'
-title = 'Blog'
-theme = 'paper'
+title = 'Blog2'
+theme = 're-terminal'
+
+[params]
+fullWidthTheme = true
+themeColor = "green"
+Toc = true
+TocTitle = "Content"
+contentTypeName = "posts"
+showMenuItems = 2
+[languages]
+[languages.en.params]
+[languages.en.params.logo]
+logoText = "Blog"
+logoHomeLink = "https://sid314.github.io/blog/"
