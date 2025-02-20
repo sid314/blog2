@@ -4,19 +4,16 @@
     <title>Posts on Blog2</title>
     <link>http://localhost:1313/blog2/posts/</link>
     <description>Recent content in Posts on Blog2</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Feb 2025 21:14:12 +0530</lastBuildDate><atom:link href="http://localhost:1313/blog2/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Feb 2025 21:14:12 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog2/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
       <link>http://localhost:1313/blog2/posts/welcome/</link>
       <pubDate>Thu, 20 Feb 2025 21:14:12 +0530</pubDate>
-      
       <guid>http://localhost:1313/blog2/posts/welcome/</guid>
-      <description>&lt;h1 id=&#34;hi&#34;&gt;Hi&lt;/h1&gt;</description>
-      <content>&lt;h1 id=&#34;hi&#34;&gt;Hi&lt;/h1&gt;
-</content>
+      <description>&lt;h2 id=&#34;wth-is-this-for&#34;&gt;Wth is this for&lt;/h2&gt;&#xA;&lt;p&gt;Idk, maybe ill have some weird if stuff here, stiff i found cool, or stuff i made.&lt;/p&gt;&#xA;&lt;h2 id=&#34;who-is-this-for&#34;&gt;Who is this for&lt;/h2&gt;&#xA;&lt;p&gt;Me, probably, anyone is welcome though, ig.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
