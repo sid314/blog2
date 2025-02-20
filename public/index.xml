@@ -2,118 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog2</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://localhost:1313/blog2/</link>
     <description>Recent content on Blog2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jan 2025 15:39:11 +0530</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Feb 2025 21:14:12 +0530</lastBuildDate><atom:link href="http://localhost:1313/blog2/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Third</title>
-      <link>http://localhost:1313/blog/posts/third/</link>
-      <pubDate>Thu, 30 Jan 2025 15:39:11 +0530</pubDate>
+      <title>Welcome</title>
+      <link>http://localhost:1313/blog2/posts/welcome/</link>
+      <pubDate>Thu, 20 Feb 2025 21:14:12 +0530</pubDate>
       
-      <guid>http://localhost:1313/blog/posts/third/</guid>
-      <description>&lt;h2 id=&#34;third-post&#34;&gt;Third Post&lt;/h2&gt;
-&lt;p&gt;IDK what to write im still testing out stuff.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;hi&amp;#34;&lt;/span&gt;);
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-      <content>&lt;h2 id=&#34;third-post&#34;&gt;Third Post&lt;/h2&gt;
-&lt;p&gt;IDK what to write im still testing out stuff.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;hi&amp;#34;&lt;/span&gt;);
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
-    </item>
-    
-    <item>
-      <title>Second</title>
-      <link>http://localhost:1313/blog/posts/second/</link>
-      <pubDate>Thu, 30 Jan 2025 15:26:43 +0530</pubDate>
-      
-      <guid>http://localhost:1313/blog/posts/second/</guid>
-      <description>&lt;h2 id=&#34;second-post&#34;&gt;Second post&lt;/h2&gt;
-&lt;p&gt;&lt;del&gt;testing&lt;/del&gt; Hoping for this to work&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Column1&lt;/th&gt;
-          &lt;th&gt;Column2&lt;/th&gt;
-          &lt;th&gt;Column3&lt;/th&gt;
-          &lt;th&gt;Column4&lt;/th&gt;
-          &lt;th&gt;Column5&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Item1.1&lt;/td&gt;
-          &lt;td&gt;Item2.1&lt;/td&gt;
-          &lt;td&gt;Item3.1&lt;/td&gt;
-          &lt;td&gt;Item4.1&lt;/td&gt;
-          &lt;td&gt;Item5.1&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Item1.2&lt;/td&gt;
-          &lt;td&gt;Item2.2&lt;/td&gt;
-          &lt;td&gt;Item3.2&lt;/td&gt;
-          &lt;td&gt;Item4.2&lt;/td&gt;
-          &lt;td&gt;Item5.2&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Item1.3&lt;/td&gt;
-          &lt;td&gt;Item2.3&lt;/td&gt;
-          &lt;td&gt;Item3.3&lt;/td&gt;
-          &lt;td&gt;Item4.3&lt;/td&gt;
-          &lt;td&gt;Item5.3&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</description>
-      <content>&lt;h2 id=&#34;second-post&#34;&gt;Second post&lt;/h2&gt;
-&lt;p&gt;&lt;del&gt;testing&lt;/del&gt; Hoping for this to work&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Column1&lt;/th&gt;
-          &lt;th&gt;Column2&lt;/th&gt;
-          &lt;th&gt;Column3&lt;/th&gt;
-          &lt;th&gt;Column4&lt;/th&gt;
-          &lt;th&gt;Column5&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Item1.1&lt;/td&gt;
-          &lt;td&gt;Item2.1&lt;/td&gt;
-          &lt;td&gt;Item3.1&lt;/td&gt;
-          &lt;td&gt;Item4.1&lt;/td&gt;
-          &lt;td&gt;Item5.1&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Item1.2&lt;/td&gt;
-          &lt;td&gt;Item2.2&lt;/td&gt;
-          &lt;td&gt;Item3.2&lt;/td&gt;
-          &lt;td&gt;Item4.2&lt;/td&gt;
-          &lt;td&gt;Item5.2&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Item1.3&lt;/td&gt;
-          &lt;td&gt;Item2.3&lt;/td&gt;
-          &lt;td&gt;Item3.3&lt;/td&gt;
-          &lt;td&gt;Item4.3&lt;/td&gt;
-          &lt;td&gt;Item5.3&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/blog/posts/first-post/</link>
-      <pubDate>Thu, 30 Jan 2025 14:56:12 +0530</pubDate>
-      
-      <guid>http://localhost:1313/blog/posts/first-post/</guid>
-      <description>&lt;h2 id=&#34;hi&#34;&gt;HI&lt;/h2&gt;
-&lt;p&gt;hello&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;hi&#34;&gt;HI&lt;/h2&gt;
-&lt;p&gt;hello&lt;/p&gt;
+      <guid>http://localhost:1313/blog2/posts/welcome/</guid>
+      <description>&lt;h2 id=&#34;wth-is-this-for&#34;&gt;Wth is this for&lt;/h2&gt;
+&lt;p&gt;Idk, maybe ill have some weird if stuff here, stiff i found cool, or stuff i made.&lt;/p&gt;
+&lt;h2 id=&#34;who-is-this-for&#34;&gt;Who is this for&lt;/h2&gt;
+&lt;p&gt;Me, probably, anyone is welcome though.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;wth-is-this-for&#34;&gt;Wth is this for&lt;/h2&gt;
+&lt;p&gt;Idk, maybe ill have some weird if stuff here, stiff i found cool, or stuff i made.&lt;/p&gt;
+&lt;h2 id=&#34;who-is-this-for&#34;&gt;Who is this for&lt;/h2&gt;
+&lt;p&gt;Me, probably, anyone is welcome though.&lt;/p&gt;
 </content>
     </item>
     
