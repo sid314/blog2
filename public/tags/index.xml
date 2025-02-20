@@ -4,8 +4,7 @@
     <title>Tags on Blog2</title>
     <link>http://localhost:1313/blog2/tags/</link>
     <description>Recent content in Tags on Blog2</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="http://localhost:1313/blog2/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/blog2/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
