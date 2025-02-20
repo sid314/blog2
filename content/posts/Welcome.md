@@ -20,4 +20,4 @@ Idk, maybe ill have some weird if stuff here, stiff i found cool, or stuff i mad
 
 ## Who is this for
 
-Me, probably, anyone is welcome though.
+Me, probably, anyone is welcome though, ig.
