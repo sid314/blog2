@@ -6,7 +6,65 @@
     <description>Recent content on Blog2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Feb 2025 21:14:12 +0530</lastBuildDate><atom:link href="http://localhost:1313/blog2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Feb 2025 16:45:05 +0530</lastBuildDate><atom:link href="http://localhost:1313/blog2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cool Stuff I Use</title>
+      <link>http://localhost:1313/blog2/posts/cool-stuf-i-use/</link>
+      <pubDate>Fri, 21 Feb 2025 16:45:05 +0530</pubDate>
+      
+      <guid>http://localhost:1313/blog2/posts/cool-stuf-i-use/</guid>
+      <description>&lt;h2 id=&#34;yazi-a-ranger-replacement&#34;&gt;Yazi: A ranger replacement&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://yazi-rs.github.io/&#34;&gt;Yazi&lt;/a&gt; is a really fast TUI file manager,
+with support for plugins.&lt;/p&gt;
+&lt;h3 id=&#34;yazi-plugins-i-use&#34;&gt;Yazi plugins I Use&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reledia/glow&lt;/li&gt;
+&lt;li&gt;Rolv-Apneseth/starship&lt;/li&gt;
+&lt;li&gt;yazi-rs/plugins:full-border&lt;/li&gt;
+&lt;li&gt;KKV9/compress&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;topgrade-convenient-way-to-manage-your-package-manager&#34;&gt;Topgrade: Convenient way to manage your package manager&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/topgrade-rs/topgrade&#34;&gt;Topgrade&lt;/a&gt;
+is a cli program to upgrade all your packages
+installed though pacman, flatpak, cargo, etc through one command.
+It also upgrades container images, git repositories, neovim plugins and much more.&lt;/p&gt;
+&lt;h2 id=&#34;dua-cli-an-ncdu-replacement&#34;&gt;Dua-cli: An NCDU replacement&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Byron/dua-cliurl&#34;&gt;Dua-cli&lt;/a&gt;
+is a way faster &lt;code&gt;ncdu&lt;/code&gt;  replacement.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;yazi-a-ranger-replacement&#34;&gt;Yazi: A ranger replacement&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://yazi-rs.github.io/&#34;&gt;Yazi&lt;/a&gt; is a really fast TUI file manager,
+with support for plugins.&lt;/p&gt;
+&lt;h3 id=&#34;yazi-plugins-i-use&#34;&gt;Yazi plugins I Use&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reledia/glow&lt;/li&gt;
+&lt;li&gt;Rolv-Apneseth/starship&lt;/li&gt;
+&lt;li&gt;yazi-rs/plugins:full-border&lt;/li&gt;
+&lt;li&gt;KKV9/compress&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;topgrade-convenient-way-to-manage-your-package-manager&#34;&gt;Topgrade: Convenient way to manage your package manager&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/topgrade-rs/topgrade&#34;&gt;Topgrade&lt;/a&gt;
+is a cli program to upgrade all your packages
+installed though pacman, flatpak, cargo, etc through one command.
+It also upgrades container images, git repositories, neovim plugins and much more.&lt;/p&gt;
+&lt;h2 id=&#34;dua-cli-an-ncdu-replacement&#34;&gt;Dua-cli: An NCDU replacement&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Byron/dua-cliurl&#34;&gt;Dua-cli&lt;/a&gt;
+is a way faster &lt;code&gt;ncdu&lt;/code&gt;  replacement.&lt;/p&gt;
+&lt;h2 id=&#34;gtrash-better-trash-command&#34;&gt;Gtrash: Better trash command&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/umlx5h/gtrash&#34;&gt;Gtrash&lt;/a&gt;
+is a much better alternative to &lt;code&gt;rm&lt;/code&gt; and &lt;code&gt;trash-cli&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;bottom-better-htop&#34;&gt;Bottom: Better Htop&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ClementTsang/bottom&#34;&gt;Bottom&lt;/a&gt;
+is much prettier &lt;code&gt;htop&lt;/code&gt; replacement.&lt;/p&gt;
+&lt;h2 id=&#34;gum-make-prettier-shell-scripts&#34;&gt;Gum: Make prettier shell scripts&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/charmbracelet/gum&#34;&gt;Gum&lt;/a&gt;
+provides tools to simplify writing pretty shell scripts.&lt;/p&gt;
+&lt;h2 id=&#34;eza-prettier-ls&#34;&gt;Eza: Prettier ls&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/eza-community/eza&#34;&gt;Eza&lt;/a&gt;
+is a prettier, more colorful replacement for
+&lt;code&gt;ls&lt;/code&gt; with lots of new features.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Welcome</title>
       <link>http://localhost:1313/blog2/posts/welcome/</link>

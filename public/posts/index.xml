@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Blog2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Feb 2025 21:14:12 +0530</lastBuildDate><atom:link href="http://localhost:1313/blog2/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Feb 2025 16:45:05 +0530</lastBuildDate><atom:link href="http://localhost:1313/blog2/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cool Stuf I Use</title>
+      <link>http://localhost:1313/blog2/posts/cool-stuf-i-use/</link>
+      <pubDate>Fri, 21 Feb 2025 16:45:05 +0530</pubDate>
+      
+      <guid>http://localhost:1313/blog2/posts/cool-stuf-i-use/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>Welcome</title>
       <link>http://localhost:1313/blog2/posts/welcome/</link>

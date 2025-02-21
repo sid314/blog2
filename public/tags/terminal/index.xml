@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal on Blog2</title>
+    <link>http://localhost:1313/blog2/tags/terminal/</link>
+    <description>Recent content in Terminal on Blog2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Feb 2025 16:45:05 +0530</lastBuildDate><atom:link href="http://localhost:1313/blog2/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cool Stuff I Use</title>
+      <link>http://localhost:1313/blog2/posts/cool-stuf-i-use/</link>
+      <pubDate>Fri, 21 Feb 2025 16:45:05 +0530</pubDate>
+      
+      <guid>http://localhost:1313/blog2/posts/cool-stuf-i-use/</guid>
+      <description>&lt;h2 id=&#34;yazi-a-ranger-replacement&#34;&gt;Yazi: A ranger replacement&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://yazi-rs.github.io/&#34;&gt;Yazi&lt;/a&gt; is a really fast TUI file manager,
+with support for plugins.&lt;/p&gt;
+&lt;h3 id=&#34;yazi-plugins-i-use&#34;&gt;Yazi plugins I Use&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reledia/glow&lt;/li&gt;
+&lt;li&gt;Rolv-Apneseth/starship&lt;/li&gt;
+&lt;li&gt;yazi-rs/plugins:full-border&lt;/li&gt;
+&lt;li&gt;KKV9/compress&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;topgrade-convenient-way-to-manage-your-package-manager&#34;&gt;Topgrade: Convenient way to manage your package manager&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/topgrade-rs/topgrade&#34;&gt;Topgrade&lt;/a&gt;
+is a cli program to upgrade all your packages
+installed though pacman, flatpak, cargo, etc through one command.
+It also upgrades container images, git repositories, neovim plugins and much more.&lt;/p&gt;
+&lt;h2 id=&#34;dua-clli-an-ncdu-replacement&#34;&gt;Dua-clli: An NCDU replacement&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Byron/dua-cliurl&#34;&gt;Dua-clli&lt;/a&gt;
+is a way faster ncdu replacement.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;yazi-a-ranger-replacement&#34;&gt;Yazi: A ranger replacement&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://yazi-rs.github.io/&#34;&gt;Yazi&lt;/a&gt; is a really fast TUI file manager,
+with support for plugins.&lt;/p&gt;
+&lt;h3 id=&#34;yazi-plugins-i-use&#34;&gt;Yazi plugins I Use&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reledia/glow&lt;/li&gt;
+&lt;li&gt;Rolv-Apneseth/starship&lt;/li&gt;
+&lt;li&gt;yazi-rs/plugins:full-border&lt;/li&gt;
+&lt;li&gt;KKV9/compress&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;topgrade-convenient-way-to-manage-your-package-manager&#34;&gt;Topgrade: Convenient way to manage your package manager&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/topgrade-rs/topgrade&#34;&gt;Topgrade&lt;/a&gt;
+is a cli program to upgrade all your packages
+installed though pacman, flatpak, cargo, etc through one command.
+It also upgrades container images, git repositories, neovim plugins and much more.&lt;/p&gt;
+&lt;h2 id=&#34;dua-clli-an-ncdu-replacement&#34;&gt;Dua-clli: An NCDU replacement&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Byron/dua-cliurl&#34;&gt;Dua-clli&lt;/a&gt;
+is a way faster ncdu replacement.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
