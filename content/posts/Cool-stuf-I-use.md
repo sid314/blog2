@@ -1,7 +1,7 @@
 +++
 title = "Cool Stuff I Use"
 date = "2025-02-21T16:45:05+05:30"
-author = ""
+author = "Abdullah"
 authorTwitter = "" #do not include @
 cover = ""
 coverCaption = ""
