@@ -30,7 +30,7 @@ installed though pacman, flatpak, cargo, etc through one command.
 It also upgrades container images, git repositories, neovim plugins and much more.&lt;/p&gt;
 &lt;h2 id=&#34;dua-cli-an-ncdu-replacement&#34;&gt;Dua-cli: An NCDU replacement&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/Byron/dua-cliurl&#34;&gt;Dua-cli&lt;/a&gt;
-is a way faster &lt;code&gt;ncdu&lt;/code&gt;  replacement.&lt;/p&gt;</description>
+is a way faster &lt;code&gt;ncdu&lt;/code&gt; replacement.&lt;/p&gt;</description>
       <content>&lt;h2 id=&#34;yazi-a-ranger-replacement&#34;&gt;Yazi: A ranger replacement&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://yazi-rs.github.io/&#34;&gt;Yazi&lt;/a&gt; is a really fast TUI file manager,
 with support for plugins.&lt;/p&gt;
@@ -48,7 +48,7 @@ installed though pacman, flatpak, cargo, etc through one command.
 It also upgrades container images, git repositories, neovim plugins and much more.&lt;/p&gt;
 &lt;h2 id=&#34;dua-cli-an-ncdu-replacement&#34;&gt;Dua-cli: An NCDU replacement&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/Byron/dua-cliurl&#34;&gt;Dua-cli&lt;/a&gt;
-is a way faster &lt;code&gt;ncdu&lt;/code&gt;  replacement.&lt;/p&gt;
+is a way faster &lt;code&gt;ncdu&lt;/code&gt; replacement.&lt;/p&gt;
 &lt;h2 id=&#34;gtrash-better-trash-command&#34;&gt;Gtrash: Better trash command&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/umlx5h/gtrash&#34;&gt;Gtrash&lt;/a&gt;
 is a much better alternative to &lt;code&gt;rm&lt;/code&gt; and &lt;code&gt;trash-cli&lt;/code&gt;.&lt;/p&gt;

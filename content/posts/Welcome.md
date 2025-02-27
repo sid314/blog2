@@ -8,8 +8,8 @@ coverCaption = ""
 tags = []
 keywords = ["", ""]
 description = "What this page is about"
-showFullContent = false
-readingTime = false
+showFullContent = true
+readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++

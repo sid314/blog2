@@ -8,16 +8,16 @@ coverCaption = ""
 tags = ["Terminal", "FOSS"]
 keywords = ["", ""]
 description = ""
-showFullContent = false
-readingTime = false
+showFullContent = true
+readingTime = true
 hideComments = false
 color = "blue" #color from the theme settings
 +++
 
 ## Yazi: A ranger replacement
 
- [Yazi](https://yazi-rs.github.io/) is a really fast TUI file manager,
- with support for plugins.
+[Yazi](https://yazi-rs.github.io/) is a really fast TUI file manager,
+with support for plugins.
 
 ### Yazi plugins I Use
 
@@ -36,7 +36,7 @@ It also upgrades container images, git repositories, neovim plugins and much mor
 ## Dua-cli: An NCDU replacement
 
 [Dua-cli](https://github.com/Byron/dua-cliurl)
-is a way faster `ncdu`  replacement.
+is a way faster `ncdu` replacement.
 
 ## Gtrash: Better trash command
 
@@ -51,7 +51,7 @@ is much prettier `htop` replacement.
 ## Gum: Make prettier shell scripts
 
 [Gum](https://github.com/charmbracelet/gum)
- provides tools to simplify writing pretty shell scripts.
+provides tools to simplify writing pretty shell scripts.
 
 ## Eza: Prettier ls
 
