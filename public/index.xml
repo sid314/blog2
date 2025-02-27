@@ -6,7 +6,20 @@
     <description>Recent content on Blog2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Feb 2025 16:45:05 +0530</lastBuildDate><atom:link href="http://localhost:1313/blog2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 20:26:49 +0530</lastBuildDate><atom:link href="http://localhost:1313/blog2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/blog2/about/</link>
+      <pubDate>Thu, 27 Feb 2025 20:26:49 +0530</pubDate>
+      
+      <guid>http://localhost:1313/blog2/about/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;
+&lt;p&gt;My name is Abdullah and I made this blog for random stuff i wanted to showcase&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;
+&lt;p&gt;My name is Abdullah and I made this blog for random stuff i wanted to showcase&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Cool Stuff I Use</title>
       <link>http://localhost:1313/blog2/posts/cool-stuf-i-use/</link>

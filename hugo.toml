@@ -16,6 +16,10 @@ showMenuItems = 2
 identifier = "RSS"
 name = "Feed"
 url = "https://sid314.github.io/blog2/index.xml"
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
 [languages.en.params]
 [languages.en.params.logo]
 logoText = "Blog"
