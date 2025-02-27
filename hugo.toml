@@ -11,6 +11,11 @@ TocTitle = "Content"
 contentTypeName = "posts"
 showMenuItems = 2
 [languages]
+[languages.en.menu]
+[[languages.en.menu.main]]
+identifier = "RSS"
+name = "Feed"
+url = "https://sid314.github.io/blog2/index.xml"
 [languages.en.params]
 [languages.en.params.logo]
 logoText = "Blog"
