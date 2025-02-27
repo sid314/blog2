@@ -4,23 +4,41 @@ title = 'Blog2'
 theme = 're-terminal-sid'
 
 [params]
+
 fullWidthTheme = true
 themeColor = "green"
 Toc = true
 TocTitle = "Content"
 contentTypeName = "posts"
 showMenuItems = 2
+readingTime = true
+
 [languages]
+[languages.en]
 [languages.en.menu]
+
 [[languages.en.menu.main]]
 identifier = "RSS"
 name = "Feed"
 url = "https://sid314.github.io/blog2/index.xml"
+
 [[languages.en.menu.main]]
 identifier = "about"
 name = "About"
 url = "/about"
+
 [languages.en.params]
+menuMore = "Show more"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+missingContentMessage = "Page not found..."
+missingBackButtonLabel = "Back to home page"
+minuteReadingTime = "min read"
+words = "words"
+reading_speed = 228
+
 [languages.en.params.logo]
 logoText = "Blog"
-logoHomeLink = "https://sid314.github.io/blog/"
+logoHomeLink = "https://sid314.github.io/blog2/"
