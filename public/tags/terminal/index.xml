@@ -87,8 +87,16 @@ and some old-fashioned markdown.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/maaslalani/slides&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/JoshKarpel/spiel&#34;&gt;Spiel&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;scorching-hot-notebooks-moltennvim&#34;&gt;Scorching-hot Notebooks: Molten.nvim&lt;/h3&gt;
-&lt;p&gt;With &lt;a href=&#34;https://github.com/benlubas/molten-nvim&#34;&gt;this&lt;/a&gt; plugin you can write and run code inside neovim with Jupyter.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;There is some stuff I could not include in this post
+so there probably will be a part 2 to this post.&lt;/p&gt;
+&lt;h3 id=&#34;shoutouts&#34;&gt;Shoutouts&lt;/h3&gt;
+&lt;p&gt;Some resources I used to find these tools&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://terminaltrove.com/&#34;&gt;Terminal Trove&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/commandline/&#34;&gt;r/Commandline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/LaTeX/&#34;&gt;r/LaTex&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     </item>
     
