@@ -3,6 +3,14 @@ languageCode = 'en-us'
 title = 'Blog2'
 theme = 're-terminal-sid'
 
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
+
 [params]
 
 fullWidthTheme = true

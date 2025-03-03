@@ -6,7 +6,100 @@
     <description>Recent content on Blog2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Feb 2025 20:26:49 +0530</lastBuildDate><atom:link href="http://localhost:1313/blog2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Mar 2025 23:36:27 +0530</lastBuildDate><atom:link href="http://localhost:1313/blog2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documents and Stuff</title>
+      <link>http://localhost:1313/blog2/posts/documents-and-stuff/</link>
+      <pubDate>Sun, 02 Mar 2025 23:36:27 +0530</pubDate>
+      
+      <guid>http://localhost:1313/blog2/posts/documents-and-stuff/</guid>
+      <description>&lt;h2 id=&#34;nerdy-ways-to-write-documents-and-stuff&#34;&gt;Nerdy Ways to Write Documents and Stuff&lt;/h2&gt;
+&lt;p&gt;This article presents some interesting ways
+to prepare notes, documents , presentations
+etc.&lt;/p&gt;
+&lt;h3 id=&#34;but-why-tho&#34;&gt;But why tho?&lt;/h3&gt;
+&lt;p&gt;Cuz its fun , and besides you&amp;rsquo;ll look cool (not a guarrantee).&lt;/p&gt;
+&lt;h3 id=&#34;the-simplest-of-the-bunch-markdown&#34;&gt;The simplest of the bunch: Markdown&lt;/h3&gt;
+&lt;p&gt;If you just want to write text and dont need any complex formatting,
+then Markdown is the best tool for the job ( ok, I know
+about Org mode but that&amp;rsquo;s a story for another day).&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;nerdy-ways-to-write-documents-and-stuff&#34;&gt;Nerdy Ways to Write Documents and Stuff&lt;/h2&gt;
+&lt;p&gt;This article presents some interesting ways
+to prepare notes, documents , presentations
+etc.&lt;/p&gt;
+&lt;h3 id=&#34;but-why-tho&#34;&gt;But why tho?&lt;/h3&gt;
+&lt;p&gt;Cuz its fun , and besides you&amp;rsquo;ll look cool (not a guarrantee).&lt;/p&gt;
+&lt;h3 id=&#34;the-simplest-of-the-bunch-markdown&#34;&gt;The simplest of the bunch: Markdown&lt;/h3&gt;
+&lt;p&gt;If you just want to write text and dont need any complex formatting,
+then Markdown is the best tool for the job ( ok, I know
+about Org mode but that&amp;rsquo;s a story for another day).&lt;/p&gt;
+&lt;p&gt;You dont need a fancy editor to start writing markdown, although one
+that also renders markdown is a nice to have. Neovim, by its own is a good
+option , but it can become a fantastic option with a few plugins.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;a.png&#34;  alt=&#34;Screenshot of a markdown file with ideas for this blog opened in neovim&#34;   style=&#34;border-radius: 12px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;Ideas for this blog&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;I use &lt;a href=&#34;https://www.lazyvim.org/&#34;&gt;Lazyvim&lt;/a&gt;
+with the &lt;a href=&#34;https://github.com/OXY2DEV/markview.nvim&#34;&gt;Markview&lt;/a&gt; plugin to
+write my notes and this blog.&lt;/p&gt;
+&lt;h3 id=&#34;never-deal-with-word-again-latex&#34;&gt;Never deal with Word again: LaTeX&lt;/h3&gt;
+&lt;p&gt;Word processors can be a real pain to use if you need complex formatting. You just
+tried to resize a picture and your precarious alignment which you already
+poured hours into gets messed up. That&amp;rsquo;s where LaTeX comes in.
+You can prepare reallly complicated documents by writing all of it in plain text.&lt;/p&gt;
+&lt;p&gt;And while that in itself is quite nerdy, you can take it to the next level by
+using Neovim (again) to write your documents. Once again I will be using
+my Neovim config, this time with &lt;a href=&#34;https://github.com/let-def/texpresso&#34;&gt;TeXpresso&lt;/a&gt;
+which also comes with a &lt;a href=&#34;https://github.com/let-def/texpresso.vim&#34;&gt;plugin&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;b.png&#34;  alt=&#34;Screenshot of a LaTeX file with chemistry text opened in neovim and rendered LaTeX window besides it&#34;   style=&#34;border-radius: 12px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;Did I mention it updates as you write?&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h3 id=&#34;what-about-presentations-presenterm&#34;&gt;What about presentations?: Presenterm&lt;/h3&gt;
+&lt;p&gt;This one surprised me too. Why? Because &lt;a href=&#34;https://github.com/mfontanini/presenterm/&#34;&gt;Presenterm&lt;/a&gt;
+allows you to display presentations
+from your terminal. You simply write your presentations in a markdown file and present them.
+So simple,yet so powerful. It also has tons of features LaTeX support
+, code running, themes and a lot more.
+Here is a very brief demo of what you can do with this tool
+and some old-fashioned markdown.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;presenterm.gif&#34;  alt=&#34;GIF of a presenterm slideshow&#34;   style=&#34;border-radius: 12px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h4 id=&#34;some-shoutouts-to-other-presentation-stuff&#34;&gt;Some shoutouts to other presentation stuff&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mimseyedi/pysentation&#34;&gt;Pysentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/maaslalani/slides&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/JoshKarpel/spiel&#34;&gt;Spiel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;There is some stuff I could not include in this post
+so there probably will be a part 2 to this post.&lt;/p&gt;
+&lt;h3 id=&#34;shoutouts&#34;&gt;Shoutouts&lt;/h3&gt;
+&lt;p&gt;Some resources I used to find these tools&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://terminaltrove.com/&#34;&gt;Terminal Trove&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/commandline/&#34;&gt;r/Commandline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/LaTeX/&#34;&gt;r/LaTex&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
     <item>
       <title>About</title>
       <link>http://localhost:1313/blog2/about/</link>

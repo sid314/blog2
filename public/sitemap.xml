@@ -2,25 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog2/</loc>
+    <lastmod>2025-03-02T23:36:27+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog2/posts/documents-and-stuff/</loc>
+    <lastmod>2025-03-02T23:36:27+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog2/tags/foss/</loc>
+    <lastmod>2025-03-02T23:36:27+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog2/posts/</loc>
+    <lastmod>2025-03-02T23:36:27+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog2/tags/</loc>
+    <lastmod>2025-03-02T23:36:27+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog2/tags/terminal/</loc>
+    <lastmod>2025-03-02T23:36:27+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog2/about/</loc>
     <lastmod>2025-02-27T20:26:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog2/</loc>
-    <lastmod>2025-02-27T20:26:49+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog2/posts/cool-stuf-i-use/</loc>
-    <lastmod>2025-02-21T16:45:05+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog2/tags/foss/</loc>
-    <lastmod>2025-02-21T16:45:05+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog2/posts/</loc>
-    <lastmod>2025-02-21T16:45:05+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog2/tags/</loc>
-    <lastmod>2025-02-21T16:45:05+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog2/tags/terminal/</loc>
     <lastmod>2025-02-21T16:45:05+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog2/posts/welcome/</loc>
