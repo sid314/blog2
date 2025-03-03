@@ -11,7 +11,7 @@ description = ""
 showFullContent = true
 readingTime = true
 hideComments = false
-color = "blue" #color from the theme settings
+color = "" #color from the theme settings
 +++
 
 ## Yazi: A ranger replacement
