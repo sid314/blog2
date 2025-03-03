@@ -22,11 +22,11 @@ etc.
 
 ### But why tho?
 
-Cuz its fun , and besides you'll look cool (not a guarrantee).
+Cuz its fun , and besides you'll look cool (not a guarantee).
 
 ### The simplest of the bunch: Markdown
 
-If you just want to write text and dont need any complex formatting,
+If you just want to write text and don't need any complex formatting,
 then Markdown is the best tool for the job ( ok, I know
 about Org mode but that's a story for another day).
 
