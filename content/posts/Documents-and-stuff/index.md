@@ -83,4 +83,4 @@ Some resources I used to find these tools
 
 - [Terminal Trove](https://terminaltrove.com/)
 - [r/Commandline](https://www.reddit.com/r/commandline/)
-- [r/LaTex](https://www.reddit.com/r/LaTeX/)
+- [r/LaTeX](https://www.reddit.com/r/LaTeX/)
