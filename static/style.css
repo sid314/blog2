@@ -1,7 +1,7 @@
 :root {
   --accent: #a6e3a1; /* 1 of 5 basic colors */
   --background: #000000; /* background color; inherit shades of the accent */
-  --accent-contrast-color: #000000; /* mainly uses for text on the accent backgrounds but not limited */
+  --accent-contrast-color: #1e1e2e; /* mainly uses for text on the accent backgrounds but not limited */
   --color: #cdd6f4; /* text color, also some other text use the variable in color mixing */
   --border-color: #94e2d5; /* border color */
 }
